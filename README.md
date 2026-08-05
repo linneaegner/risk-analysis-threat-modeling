@@ -9,12 +9,7 @@ The project was created using OWASP Threat Dragon and a structured risk register
 - OWASP Threat Dragon
 - Microsoft Excel
 
-## Repository Structure
+## Files
 
-```
-threat-model/
-    hotmodell-lineg196.json
-
-risk-analysis/
-    riskanalys-lineg196.xlsx
-```
+- `threat-model/hotmodell-lineg196.json`
+- `risk-analysis/riskanalys-lineg196.xlsx`
