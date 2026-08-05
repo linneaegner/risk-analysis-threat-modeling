@@ -1,2 +1,20 @@
-# liu-risk-analysis-threat-modeling
-Risk analysis and threat modeling of a sample business system using OWASP Threat Dragon and a risk register.
+# Risk Analysis and Threat Modeling
+
+This repository contains a threat model and risk analysis of a sample business system.
+
+The project was created using OWASP Threat Dragon and a structured risk register as part of an information security course.
+
+## Tools
+
+- OWASP Threat Dragon
+- Microsoft Excel
+
+## Repository Structure
+
+```
+threat-model/
+    hotmodell-lineg196.json
+
+risk-analysis/
+    riskanalys-lineg196.xlsx
+```
